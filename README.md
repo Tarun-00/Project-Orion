@@ -1,14 +1,5 @@
- 
-# ________  ________  ________        ___  _______   ________ _________        ________  ________  ___  ________  ________      
- |\   __  \|\   __  \|\   __  \      |\  \|\  ___ \ |\   ____|\___   ___\     |\   __  \|\   __  \|\  \|\   __  \|\   ___  \    
-  \ \  \|\  \ \  \|\  \ \  \|\  \     \ \  \ \   __/|\ \  \___\|___ \  \_|     \ \  \|\  \ \  \|\  \ \  \ \  \|\  \ \  \\ \  \   
-   \ \   ____\ \   _  _\ \  \\\  \  __ \ \  \ \  \_|/_\ \  \       \ \  \       \ \  \\\  \ \   _  _\ \  \ \  \\\  \ \  \\ \  \  
-    \ \  \___|\ \  \\  \\ \  \\\  \|\  \\_\  \ \  \_|\ \ \  \____   \ \  \       \ \  \\\  \ \  \\  \\ \  \ \  \\\  \ \  \\ \  \ 
-     \ \__\    \ \__\\ _\\ \_______\ \________\ \_______\ \_______\  \ \__\       \ \_______\ \__\\ _\\ \__\ \_______\ \__\\ \__\
-      \|__|     \|__|\|__|\|_______|\|________|\|_______|\|_______|   \|__|        \|_______|\|__|\|__|\|__|\|_______|\|__| \|__|
-                                                                                                                               
-                                                                                                                               
-                                                                                                                               
+# PROJECT ORION
+                                                                                                                                                                                                                                                              
 Project Orion is a project made by me to tackle the problem of Malicious Actors accessing systems to gain access of PII and SPII.
 
 Project Orion runs on a small development board with an attached display that shows information about total system health and overall security strength of the system.
