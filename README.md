@@ -14,6 +14,6 @@ Compatible with amd, aarch, RISC and ARM architecture.
 
 It comes with various themes to show information on the attached display.
 
-Specs - Raspberry Pi Zero WH, Waveshare 2.13 inch V2 E-Ink Display and Project Orion Licensed Under 
+Specs - Raspberry Pi Zero WH, Waveshare 2.13 inch V2 E-Ink Display and Project Orion Licensed Under GPL-3.0 
 
 For more Information, Please write to me on tarungahlotcs@gmail.com
